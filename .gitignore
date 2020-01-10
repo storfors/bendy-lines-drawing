@@ -348,3 +348,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/bendy-lines-drawing/bendy-lines-drawing.vcxproj.filters
